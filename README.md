@@ -2,7 +2,6 @@
 
 > **Shrink any photo, signature, or PDF to your form’s exact KB limit—instantly, freely, and privately.**
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Client--Side-orange.svg)](#privacy--security)
 
 ---
