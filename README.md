@@ -33,9 +33,7 @@ Try the web app live at: [exactbytes.pages.dev](https://exactbytes.pages.dev/)
 
 ## 🛠️ Built With
 
-- **Frontend:** HTML5, Modern JavaScript / React
-- **Styling:** CSS3 / Tailwind CSS
-- **Local Processing:** Canvas API, `jsPDF` / WebAssembly-based compression libraries
+* **AI Assistance:** Built with [Claude by Anthropic](https://anthropic.com)
 
 ---
 
