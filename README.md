@@ -102,4 +102,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 If you found this tool helpful, consider supporting the developer!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://buymeacoffee.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://buymeacoffee.com/karanpatil77)
