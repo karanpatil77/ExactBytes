@@ -39,36 +39,6 @@ Try the web app live at: [exactbytes.pages.dev](https://exactbytes.pages.dev/)
 
 ---
 
-## 🏃 Getting Started
-
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) (v16 or higher) and `npm` installed.
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/exact-bytes.git
-   cd exact-bytes
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the local development server:**
-   ```bash
-   npm run dev
-   ```
-
-4. **Build for production:**
-   ```bash
-   npm run build
-   ```
-
----
-
 ## 🛡️ Privacy & Security
 
 Security and user privacy are foundational principles of Exact Bytes:
