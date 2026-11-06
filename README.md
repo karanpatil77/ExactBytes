@@ -2,7 +2,6 @@
 
 > **Shrink any photo, signature, or PDF to your form’s exact KB limit—instantly, freely, and privately.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Client--Side-orange.svg)](#privacy--security)
 
@@ -89,12 +88,6 @@ Feel free to check out the [issues page](../../issues).
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
